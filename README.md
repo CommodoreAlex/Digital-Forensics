@@ -72,7 +72,6 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 ## 8) Mobile Device Forensics
 - Mobile Device Forensics Lecture
 - Mobile Device Forensics (Lab)
-  - Should be able to use Autopsy
 
 ---
 
