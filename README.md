@@ -16,7 +16,72 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 8. [Mobile Device Forensics](#mobile-device-forensics)
 9. [Recovering Deleted & Graphic Files](#recovering-deleted--graphic-files)
 
-## Getting Started
-To get started, navigate to each section and follow the provided tutorials and guides. Be sure to practice using the recommended tools and techniques to reinforce your learning.
+---
+
+## 1) Introduction to Digital Forensics
+- Overview of Digital Forensics
+- Understanding the forensic process and tools
 
 ---
+
+## 2) Data Acquisition
+- Write Blocker with FTK Imager
+- FTK Imager Tutorial
+- Creating MD5 Sums and Creating Copies for Editing
+- Creating Raw Disk Images with DD
+
+---
+
+## 3) Metadata Collection & Examination
+- Metadata Collection and Examination
+- Exiftool for Metadata
+
+---
+
+## 4) File System & Disk Analysis
+- Autopsy Tutorial
+- Disk Imaging & File System Analysis
+- Hypervisor Artifacts & Live VM Analysis
+
+---
+
+## 5) Memory Forensics
+- Volatility 3 Tutorial
+- Memory Forensics with Volatility (Lab)
+- Virtual Machine ESXi Memory Forensics from a Snapshot
+
+---
+
+## 6) Network Forensics
+- Wireshark for PCAP Analysis & TCPDUMP
+- TShark Tutorial
+
+---
+
+## 7) Cloud & Virtual Machine Forensics
+- Cloud Forensics with Magnet Axiom
+- Virtual Machine Forensics:
+  - Disk Imaging
+  - File System Analysis
+  - Hypervisor Artifacts
+  - Live VM Analysis
+  - Network Forensics
+
+---
+
+## 8) Mobile Device Forensics
+- Mobile Device Forensics Lecture
+- Mobile Device Forensics (Lab)
+  - Should be able to use Autopsy
+
+---
+
+## 9) Recovering Deleted & Graphic Files
+- Recovering Graphic Files
+
+
+----
+
+## 10) Hack The Box Sherlock Lab: CrownJewl-1
+
+[CrownJewel-1](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
