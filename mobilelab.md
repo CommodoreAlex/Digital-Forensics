@@ -5,8 +5,43 @@ The objective of this tutorial is to guide you through the process of using **Au
 
 ---
 
-## Video Demonstrations:
-- [https://www.youtube.com/watch?v=K_RE3wEZwPc](https://www.youtube.com/watch?v=K_RE3wEZwPc)
+## Video Demonstrations
+
+I understand there is a lot of content here, view what is interesting to you, there is a lot that goes into IoS/Android forensics.
+
+SANS Digital Forensics and Incident Response Lecture:
+- [iOS of Sauron: How iOS Tracks Everything You Do- SANS DFIR Summit 2016](https://www.youtube.com/watch?v=D6cSiHpvboI)
+
+Mobile Device Acquisiton and Forensics Examiner Demonstration (quick):
+- [DFS101: 11.2 Mobile Device Acquisition](https://www.youtube.com/watch?v=K_RE3wEZwPc)
+- [Watch as forensic technicians break into an iPhone (quick but interesting)](https://www.youtube.com/watch?v=WYxV9PtkwbU)
+
+Law Enforcement and Cellebrite:
+- [How Law Enforcement Breaks into iPhones](https://www.youtube.com/watch?v=F7xawqxI260)
+- [Mobile Forensics For Litigation using Cellebrite](https://www.youtube.com/watch?v=MQGSuHkfsdc)
+
+TryHackMe:
+- [Taking over Absolutely Everything On an iPhone ! iOS Digital Forensics Challenge (TryHackMe-Easy)](https://www.youtube.com/watch?v=12pmtwCDOEw)
+
+Snapchat (Common App Concerns):
+- [Snapchat Analysis to Discover Digital Forensic Artifacts on Android Phone](https://www.youtube.com/watch?v=BCMdJDggPos)
+
+Android and IoS Data Storage and File System Structure:
+- [The iOS File System Structure](https://www.youtube.com/watch?v=47IRNLQYqB4)
+- [ANDROID FORENSIC ACQUISITION](https://www.youtube.com/watch?v=MA0Pud6hAyI)
+
+Android Acquisition using ADB, root, ncat, and DD:
+- [Windows Android Acquisition using mentioned tools](https://www.youtube.com/watch?v=KKkvkCgMeMA)
+
+Mobile Device analysis with iLEAPP:
+- [Fast iPhone forensic analysis with iLEAPP](https://www.youtube.com/watch?v=Cp9QMauTRaM)
+- [Fast Android forensic triage with ALEAPP](https://www.youtube.com/watch?v=_cm1n0stVrA)
+
+Mobile Device Forensics with OSForensics:
+- [How to Obtain Data from an Android Device with OSForensics](https://www.youtube.com/watch?v=p4mXFJgtszY)
+- [Expanding on Deleted File Search with OSForensics](https://www.youtube.com/watch?v=BWLxRHlKYsM)
+
+---
 
 ### **Lab Setup and Requirements**
 
