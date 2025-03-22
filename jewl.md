@@ -1,15 +1,26 @@
-**Learning Objectives of the Hack The Box Challenge: Forela**
+# Learning Objectives of the Hack The Box Challenge: CrownJewl-1  
 
-In the **Forela** challenge, participants are tasked with analyzing a compromised Domain Controller (DC) under attack. The primary goal is to perform quick triage and identify any signs of the attacker’s actions. Key objectives of this challenge include:
+In the **CrownJewl-1** challenge, participants analyze a compromised **Domain Controller (DC)** under attack. The objective is to perform **rapid triage**, identify the attacker's actions, and assess the impact of the breach.  
 
-1. **Understanding Domain Controller Attacks**: Gain insight into the methods used by attackers to compromise a DC, particularly through tools like `vssadmin`, which can be exploited to dump the NTDS.dit database containing sensitive domain data (password hashes, user information, etc.).
-    
-2. **Analyzing Logs and Artifacts**: Analyze logs and other artifacts provided as part of the challenge to identify suspicious activity. This includes understanding the use of **LOLBINs (Living off the Land Binaries)**, which are legitimate system tools abused by attackers for malicious purposes.
-    
-3. **Responding to an Attack**: Learn how to conduct initial triage to assess the situation and determine whether the attacker has successfully dumped the NTDS.dit database. This involves detecting the use of `vssadmin` or other suspicious activity indicative of an ongoing attack.
-    
-4. **Kicking the Attacker**: In addition to triage, participants are challenged to take steps to remove the attacker from the environment if possible. This could include identifying and terminating malicious processes or taking action to secure the DC.
+## Key Objectives  
 
-By completing this challenge, learners will improve their skills in **digital forensics**, **incident response**, and understanding common attack vectors in a Windows domain environment.
+### Understanding Domain Controller Attacks  
+- Learn how attackers compromise **Windows Domain Controllers**, focusing on techniques used to extract sensitive domain data.  
+- Investigate **vssadmin abuse** to dump the **NTDS.dit** database, which contains **password hashes** and other critical user information.  
 
-You can find my detailed solution for this challenge here: [HTB Sherlock: Crown Jewel - Solution](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1).
+### Analyzing Logs & Artifacts  
+- Examine **event logs, process execution data, and system artifacts** to detect **Living off the Land Binaries (LOLBINs)** and other malicious activities.  
+- Understand how attackers use **built-in Windows utilities** to evade detection.  
+
+### Incident Response & Attack Mitigation  
+- Conduct **initial triage** to determine if the attacker successfully dumped **NTDS.dit** or escalated privileges.  
+- Detect and analyze **vssadmin** usage or other suspicious commands indicative of **persistence techniques**.  
+
+### Evicting the Attacker  
+- Identify **malicious processes, unauthorized accounts, and backdoors** left by the attacker.  
+- Take appropriate steps to **secure the Domain Controller** and remove unauthorized access.  
+
+## Solution Write-Up  
+For a detailed step-by-step solution to the **CrownJewl-1** challenge, check out my write-up here: **[HTB Sherlock: Crown Jewel - Solution](#)**.  
+
+**Challenge Artifacts:** The **CrownJewl1.zip** file, which contains the necessary forensic artifacts, is available in the root of this repository: **[Download Here](#)**.
