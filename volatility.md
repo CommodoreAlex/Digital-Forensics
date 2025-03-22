@@ -10,6 +10,7 @@ Volatility 3 is an advanced open-source framework for memory forensics, providin
 
 - [Introduction to Memory Forensics with Volatility 3](https://www.youtube.com/watch?v=Uk3DEgY5Ue8)
 - [Rapid Windows Memory Analysis with Volatility 3](https://www.youtube.com/watch?v=EqGoGwVCVwM&t=542s)
+- [https://www.youtube.com/watch?v=2S_pi9qnIo8](https://www.youtube.com/watch?v=2S_pi9qnIo8)
 
 ---
 
