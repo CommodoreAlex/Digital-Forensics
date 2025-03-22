@@ -1,9 +1,17 @@
 # Digital Forensics Curriculum Overview
 
-## Introduction
-Welcome to the **Digital Forensics Curriculum** repository. This repository is designed to provide a structured learning path for those interested in digital forensics, covering key topics such as data acquisition, metadata analysis, file system forensics, memory forensics, network forensics, cloud forensics, and mobile device forensics.
+Welcome to the Digital Forensics Curriculum repository. This structured learning path is designed for students, professionals, and cybersecurity enthusiasts who want to build expertise in digital forensics. Whether you're preparing for a career in cybersecurity, conducting forensic investigations, or enhancing your technical skills, this repository provides essential knowledge and hands-on experience.
 
-Each section includes tutorials, guides, and hands-on labs to ensure a comprehensive learning experience. This curriculum will help you develop critical forensic investigation skills.
+This curriculum covers critical areas such as:
+- Data acquisition & evidence preservation
+- File system, memory, and network forensics
+- Cloud and mobile device forensics
+- Metadata analysis & forensic tool usage
+- Introductions to TryHackMe and Hack The Box learning platfoms.
+
+Each section includes tutorials, guides, and labs to ensure a practical, in-depth learning experience. By following this curriculum, you'll develop the skills needed to analyze digital evidence, recover data, and understand forensic investigation methodologies.
+
+---
 
 ## Table of Contents
 1. [Introduction to Digital Forensics](#1-introduction-to-digital-forensics)
