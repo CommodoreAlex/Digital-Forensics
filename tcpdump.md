@@ -1,5 +1,13 @@
 ### **TCPDump Guide: Network Traffic Capture and Analysis**
 
+## What is TCPDUMP?
+tcpdump is a powerful command-line packet analyzer used for network traffic capture and analysis. It allows users to intercept, filter, and inspect packets on a network interface in real-time. Commonly used by network administrators and security professionals, tcpdump helps with troubleshooting, monitoring, and forensic investigations.
+
+Key Features:
+- Captures live traffic from network interfaces (e.g., Ethernet, Wi-Fi).
+- Filters packets using Berkeley Packet Filter (BPF) syntax.
+- Can save packet captures to files (e.g., .pcap) for later analysis.
+
 ---
 
 ## Video Demonstrations
