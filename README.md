@@ -23,6 +23,8 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 - Overview of DFIR: [Introduction to Digital Forensics](intro.md)
 - Chain of Custody: [Law Enforcement Concerns](custody.md)
 - What are Ciphers?: [Exploring Encryption Challenges](ciphers.md)
+- High Value Targets for Windows: [Introduction to NTFS Forensics](windows.md)
+- High Value Targets for Linux: [Linux Forensics and EXT File System Analysis](linux.md)
 
 ---
 
