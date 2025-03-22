@@ -11,6 +11,9 @@ A write blocker is a crucial tool in digital forensics that prevents any modific
 - **FTK Imager** installed on your computer (available from Exterro's website)
 - The **source drive** (HDD, SSD, or USB) to be imaged
 
+## Video Demonstrations:
+- [Imaging Using Write Blocker | FTK Imager + Write Blocker Step By Step Process](https://www.youtube.com/watch?v=35bAZv98KRs)
+
 ## Steps to Create a Forensic Copy
 
 ### 1. Connect the Write Blocker
