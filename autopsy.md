@@ -8,6 +8,7 @@ This tutorial will guide you through the basic steps of using Autopsy for digita
 ## Video Demonstrations:
 - [Computer Forensics: Using Autopsy To Investigate a Local Hard Drive](https://www.youtube.com/watch?v=uRK7xWsZ2TU)
 - [Disk Analysis with Autopsy | HackerSploit Blue Team Training](https://www.youtube.com/watch?v=o6boK9dG-Lc)
+- [RECOVERING FILES with Autopsy (PicoCTF 2022 #47 'operation-oni')](https://www.youtube.com/watch?v=6NcIbiKhIis)
 
 ---
 
