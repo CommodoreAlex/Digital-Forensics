@@ -2,6 +2,12 @@
 
 ---
 
+## Video Demonstrations:
+- [Intro to Wireshark (PicoCTF 2022 #17 'packets-primer')](https://www.youtube.com/watch?v=A4_DOr7Eiqo)
+- [Chase [easy]: HackTheBox Forensics Challenge (wireshark - network traffic analysis)](https://www.youtube.com/watch?v=OoCYMX72KMo)
+
+---
+
 ### **Prerequisites**
 
 1. **Wireshark Installation**: Ensure that Wireshark is installed on your Linux or Windows machine.
