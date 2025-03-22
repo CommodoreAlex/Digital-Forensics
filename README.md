@@ -6,15 +6,16 @@ Welcome to the **Digital Forensics Curriculum** repository. This repository is d
 Each section includes tutorials, guides, and hands-on labs to ensure a comprehensive learning experience. Whether you are a beginner or an experienced professional, this curriculum will help you develop critical forensic investigation skills.
 
 ## Table of Contents
-1. [Introduction to Digital Forensics](#introduction-to-digital-forensics)
-2. [Data Acquisition](#data-acquisition)
-3. [Metadata Collection & Examination](#metadata-collection--examination)
-4. [File System & Disk Analysis](#file-system--disk-analysis)
-5. [Memory Forensics](#memory-forensics)
-6. [Network Forensics](#network-forensics)
-7. [Cloud & Virtual Machine Forensics](#cloud--virtual-machine-forensics)
-8. [Mobile Device Forensics](#mobile-device-forensics)
-9. [Recovering Deleted & Graphic Files](#recovering-deleted--graphic-files)
+1. [Introduction to Digital Forensics](#1-introduction-to-digital-forensics)
+2. [Data Acquisition](#2-data-acquisition)
+3. [Metadata Collection & Examination](#3-metadata-collection--examination)
+4. [File System & Disk Analysis](#4-file-system--disk-analysis)
+5. [Memory Forensics](#5-memory-forensics)
+6. [Network Forensics](#6-network-forensics)
+7. [Cloud & Virtual Machine Forensics](#7-cloud--virtual-machine-forensics)
+8. [Mobile Device Forensics](#8-mobile-device-forensics)
+9. [Recovering Deleted & Graphic Files](#9-recovering-deleted--graphic-files)
+10. [Hack The Box Sherlock Lab: CrownJewl-1](#10-hack-the-box-sherlock-lab-crownjewel-1)
 
 ---
 
@@ -85,4 +86,4 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 
 ## 10) **Hack The Box Sherlock Lab: CrownJewl-1**
 
-- [CrownJewel-1 Lab](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1) : [Sherlock Crown Jewel Guide](jewl.md)
+- [CrownJewel-1 Lab](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
