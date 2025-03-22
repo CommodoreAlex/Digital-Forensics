@@ -4,6 +4,13 @@ Magnet AXIOM is a powerful digital forensics tool that enables investigators to 
 
 ---
 
+## Video Demonstrations:
+- [Intro to Cloud Forensics](https://www.youtube.com/watch?v=d3I2kPHKl0k)
+- [Acquiring and Analyzing Cloud Data in Magnet AXIOM](https://www.youtube.com/watch?v=kQd1L1uJkGg)
+- [Cloud Forensics on AWS: How to create a copy of an EBS volume for an investigation](https://www.youtube.com/watch?v=WxhlGVoiQuQ)
+
+---
+
 ### **Prerequisites**
 
 1. **Magnet AXIOM Installation**: Ensure that Magnet AXIOM is installed on your system. You can download it from Magnet Forensics' official website. A license key is required to activate the tool.
