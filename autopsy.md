@@ -4,6 +4,10 @@ Autopsy is a powerful open-source digital forensics tool that helps forensic inv
 
 This tutorial will guide you through the basic steps of using Autopsy for digital forensics, focusing on creating a case, adding data sources, and performing common forensic tasks like file analysis, keyword searching, and reporting.
 
+---
+## Video Demonstrations:
+- [Computer Forensics: Using Autopsy To Investigate a Local Hard Drive](https://www.youtube.com/watch?v=uRK7xWsZ2TU)
+- [Disk Analysis with Autopsy | HackerSploit Blue Team Training](https://www.youtube.com/watch?v=o6boK9dG-Lc)
 
 ---
 
