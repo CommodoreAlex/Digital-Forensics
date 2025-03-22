@@ -3,6 +3,13 @@
 The `dd` command on Linux is a powerful utility that allows you to create a raw disk image, which is essentially a bit-by-bit copy of a storage device. This is commonly used in digital forensics to make exact duplicates of disks for further analysis without altering the original data. The image can then be analyzed using forensic tools like `Autopsy`, `FTK Imager`, or other file carving techniques.
 
 ---
+
+## Video Demonstrations:
+- [Linux File System Explained!](https://www.youtube.com/watch?v=bbmWOjuFmgA)
+- [Creating a Disk Image on Linux Using DD](https://www.youtube.com/watch?v=kpQ4y1YmCbo)
+- [Mounting Linux Disk Images in Windows](https://www.youtube.com/watch?v=W_youhia4dU)
+
+---
 ### 1. Prerequisites
 
 Before starting, ensure that you have the following:
