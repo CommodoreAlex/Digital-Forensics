@@ -93,6 +93,8 @@ Each section includes tutorials, guides, and labs to ensure a practical, in-dept
 
 ## 10) **Operating System Forensics**
 
-- High Value Targets for Windows: [Introduction to NTFS Forensics](windows.md)
-- High Value Targets for Linux: [Linux Forensics and EXT File System Analysis](linux.md)
+- Windows Forensics Essentials: Introduction to NTFS Analysis: [Introduction to NTFS Forensics](windows.md)
+- Linux Forensics Deep Dive: EXT File System & Artifact Analysis: [Linux Forensics and EXT File System Analysis](linux.md)
 - Hack The Box Platform Hands-On Exericse: [Hack The Box](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
+
+---
