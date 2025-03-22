@@ -21,6 +21,6 @@ In the **CrownJewl-1** challenge, participants analyze a compromised **Domain Co
 - Take appropriate steps to **secure the Domain Controller** and remove unauthorized access.  
 
 ## Solution Write-Up  
-For a detailed step-by-step solution to the **CrownJewl-1** challenge, check out my write-up here: **[HTB Sherlock: Crown Jewel - Solution](#)**.  
+For a detailed step-by-step solution to the **CrownJewl-1** challenge, check out my write-up here: **[HTB Sherlock: Crown Jewel - Solution](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)**. 
 
-**Challenge Artifacts:** The **CrownJewl1.zip** file, which contains the necessary forensic artifacts, is available in the root of this repository: **[Download Here](#)**.
+**Challenge Artifacts:** The **CrownJewl1.zip** file, which contains the necessary forensic artifacts, is available in the root of this repository: **[Download Here](https://github.com/CommodoreAlex/Digital-Forensics/blob/main/CrownJewel1.zip)**.
