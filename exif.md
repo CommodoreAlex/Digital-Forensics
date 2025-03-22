@@ -7,6 +7,7 @@ ExifTool is a powerful command-line utility for reading, writing, and modifying 
 ---
 
 ## Video Demonstrations:
+- [Exiftool Tutorial - Basic usage tutorial on Kali Linux](https://www.youtube.com/watch?v=7L9Mq5ROYG0)
 - [OSINT At Home #2 - Five ways to find EXIF/metadata in a photo or video](https://www.youtube.com/watch?v=d3NsT8lJRlE)
 - [Extract iPhone and Android EXIF metadata from online photos using PYTHON // OSINT with Kali Linux](https://www.youtube.com/watch?v=A_itRNhbgZk)
 
