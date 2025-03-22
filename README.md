@@ -19,9 +19,8 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 
 ---
 
-## 1) Introduction to Digital Forensics
-- Overview of Digital Forensics
-- Understanding the forensic process and tools
+## 1) Introduction to Digital Forensics (DFIR)
+- [Introduction to Digital Forensics](intro.md)
 
 ---
 
