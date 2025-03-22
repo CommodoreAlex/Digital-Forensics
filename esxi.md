@@ -2,6 +2,11 @@
 
 ---
 
+## Video Demonstrations:
+- [What is VMware?](https://www.youtube.com/watch?v=zPNCp9AV-vA)
+- [VMware vCenter Server vs VMware ESXi: What's the Difference?](https://www.youtube.com/watch?v=xArL-GzFVOQ)
+- [VMware Memory Forensics ](https://www.youtube.com/watch?v=P0yw93GJsYU)
+
 ### **Prerequisites**
 
 1. **VMware ESXi Host**: Ensure that you have access to the VMware ESXi host where the virtual machine (VM) is running.
