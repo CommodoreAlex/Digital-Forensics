@@ -51,7 +51,7 @@ Each section includes tutorials, guides, and labs to ensure a practical, in-dept
 
 ### 4) **File System & Disk Analysis**
 
-- Autopsy Tutorial : [Autopsy Tutorial](autopsy.md)
+- Autopsy Tutorial: [Autopsy Tutorial](autopsy.md)
 - Disk Imaging & File System Analysis: [Disk Imaging & File System Analysis Guide](diskfile.md)
 - Hypervisor Artifacts & Live VM Analysis: [Hypervisor Artifacts & Live VM Analysis Guide](virtual.md)
 
@@ -59,7 +59,7 @@ Each section includes tutorials, guides, and labs to ensure a practical, in-dept
 
 ### 5) **Memory Forensics**
 
-- Memory Forensics with Volatility 3 (Lab) : [Memory Forensics Lab](volatility.md)
+- Memory Forensics with Volatility 3 (Lab): [Memory Forensics Lab](volatility.md)
 - Virtual Machine ESXi Memory Forensics from a Snapshot: [VM ESXi Memory Forensics](esxi.md)
 
 ---
