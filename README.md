@@ -34,7 +34,7 @@ Each section includes tutorials, guides, and labs to ensure a practical, in-dept
 
 ---
 
-## ## 2) **Data Acquisition**
+## 2) **Data Acquisition**
 
 - Write Blocker with FTK Imager : [Write Blocker Guide](writeblock.md)
 - FTK Imager Tutorial : [FTK Imager Tutorial](ftkimage.md)
