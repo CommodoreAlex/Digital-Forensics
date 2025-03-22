@@ -27,14 +27,14 @@ Each section includes tutorials, guides, and labs to ensure a practical, in-dept
 
 ---
 
-## 1) Introduction to Digital Forensics (DFIR)
+### 1) Introduction to Digital Forensics (DFIR)
 - Overview of DFIR: [Introduction to Digital Forensics](intro.md)
 - Chain of Custody: [Law Enforcement Concerns](custody.md)
 - What are Ciphers?: [Exploring Encryption Challenges](ciphers.md)
 
 ---
 
-## 2) **Data Acquisition**
+### 2) **Data Acquisition**
 
 - Write Blocker with FTK Imager : [Write Blocker Guide](writeblock.md)
 - FTK Imager Tutorial : [FTK Imager Tutorial](ftkimage.md)
@@ -43,13 +43,13 @@ Each section includes tutorials, guides, and labs to ensure a practical, in-dept
 
 ---
 
-## 3) **Metadata Collection & Examination**
+### 3) **Metadata Collection & Examination**
 
 - Exiftool for Metadata Collection and Examination: [Exiftool Guide](exif.md)
 
 ---
 
-## 4) **File System & Disk Analysis**
+### 4) **File System & Disk Analysis**
 
 - Autopsy Tutorial : [Autopsy Tutorial](autopsy.md)
 - Disk Imaging & File System Analysis : [Disk Imaging & File System Analysis Guide](diskfile.md)
@@ -57,41 +57,41 @@ Each section includes tutorials, guides, and labs to ensure a practical, in-dept
 
 ---
 
-## 5) **Memory Forensics**
+### 5) **Memory Forensics**
 
 - Memory Forensics with Volatility 3 (Lab) : [Memory Forensics Lab](volatility.md)
 - Virtual Machine ESXi Memory Forensics from a Snapshot : [VM ESXi Memory Forensics](esxi.md)
 
 ---
 
-## 6) **Network Forensics**
+### 6) **Network Forensics**
 
 - Wireshark for PCAP Analysis & TCPDUMP : [Wireshark Guide](wireshark.md) : [TCPDump Guide](tcpdump.md)
 - TShark Tutorial : [TShark Tutorial](tshark.md)
 
 ---
 
-## 7) **Cloud & Virtual Machine Forensics**
+### 7) **Cloud & Virtual Machine Forensics**
 
 - Cloud Forensics with Magnet Axiom : [Magnet Axiom Guide](magnet.md)
 - Virtual Machine Forensics: [Virtual Machine Forensics Guide](virtualmac.md)
 
 ---
 
-## 8) **Mobile Device Forensics**
+### 8) **Mobile Device Forensics**
 
 - Mobile Device Forensics Lecture : [Mobile Device Forensics Lecture](mobilelecture.md)
 - Mobile Device Forensics (Lab) : [Mobile Device Forensics Lab](mobilelab.md)
 
 ---
 
-## 9) **Recovering Deleted & Graphic Files**
+### 9) **Recovering Deleted & Graphic Files**
 
 - Recovering Graphic Files : [Graphic File Recovery Guide](graphic.md)
 
 ---
 
-## 10) **Operating System Forensics**
+### 10) **Operating System Forensics**
 
 - Windows Forensics Essentials: Introduction to NTFS Analysis: [Windows Forensics](windows.md)
 - Linux Forensics Deep Dive: EXT File System & Artifact Analysis: [Linux Forensics](linux.md)
