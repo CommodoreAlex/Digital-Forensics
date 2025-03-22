@@ -84,4 +84,4 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 
 ## 10) **Hack The Box Sherlock Lab: CrownJewl-1**
 
-- [CrownJewel-1 Lab](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
+- Hack The Box Platform Hands-On Exericse: [CrownJewel-1 Lab](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
