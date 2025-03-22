@@ -9,6 +9,14 @@ Are you ready for a challenge? By the end of this guide, you'll be equipped to s
 
 ---
 
+## Video Demonstrations:
+- [Vigenere Cipher Cryptography (PicoCTF 2022 #29 'vigenere')](https://www.youtube.com/watch?v=8AhAL1JRctY)
+- [Diffie-Helman Key Exchange (PicoCTF 2022 #32 'diffie-helman')](https://www.youtube.com/watch?v=fD465NhC9uU)
+- [GuidePoint Security CTF - "Julius" Hex Encoded Caesar Cipher](https://www.youtube.com/watch?v=bkVOQfst7Zc)
+- [GuidePoint Security CTF - "Sub" Decrypting a Substitution Cipher with Python](https://www.youtube.com/watch?v=NOtO57oWh3U)
+
+---
+
 ## 2. **Common Ciphers and Their Use Cases**
 
 ### **A. Classical Ciphers**
