@@ -36,8 +36,7 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 
 ## 3) **Metadata Collection & Examination**
 
-- Metadata Collection and Examination
-- Exiftool for Metadata : [Exiftool Guide](exif.md)
+- Exiftool for Metadata Collection and Examination: [Exiftool Guide](exif.md)
 
 ---
 
