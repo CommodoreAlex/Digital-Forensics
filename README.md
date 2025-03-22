@@ -15,7 +15,7 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 7. [Cloud & Virtual Machine Forensics](#7-cloud--virtual-machine-forensics)
 8. [Mobile Device Forensics](#8-mobile-device-forensics)
 9. [Recovering Deleted & Graphic Files](#9-recovering-deleted--graphic-files)
-11. [Hack The Box Sherlock Challenge](#10-Hack-The-Box-Sherlock-Lab)
+11. [Operating System Forensics](#10-Hack-The-Box-Sherlock-Lab)
 
 ---
 
@@ -23,8 +23,6 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 - Overview of DFIR: [Introduction to Digital Forensics](intro.md)
 - Chain of Custody: [Law Enforcement Concerns](custody.md)
 - What are Ciphers?: [Exploring Encryption Challenges](ciphers.md)
-- High Value Targets for Windows: [Introduction to NTFS Forensics](windows.md)
-- High Value Targets for Linux: [Linux Forensics and EXT File System Analysis](linux.md)
 
 ---
 
@@ -85,6 +83,8 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 
 ---
 
-## 10) **Hack The Box Sherlock Lab**
+## 10) **Operating System Forensics**
 
+- High Value Targets for Windows: [Introduction to NTFS Forensics](windows.md)
+- High Value Targets for Linux: [Linux Forensics and EXT File System Analysis](linux.md)
 - Hack The Box Platform Hands-On Exericse: [Hack The Box](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
