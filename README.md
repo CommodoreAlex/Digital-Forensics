@@ -50,8 +50,7 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 
 ## 5) **Memory Forensics**
 
-- Volatility 3 Tutorial : [Volatility 3 Tutorial](volatility.md)
-- Memory Forensics with Volatility (Lab) : [Memory Forensics Lab](volatility.md)
+- Memory Forensics with Volatility 3 (Lab) : [Memory Forensics Lab](volatility.md)
 - Virtual Machine ESXi Memory Forensics from a Snapshot : [VM ESXi Memory Forensics](esxi.md)
 
 ---
