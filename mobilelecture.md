@@ -1,5 +1,3 @@
-### **Preparatory Document for Mobile Device Forensics and Autopsy Lab**
-
 #### **Overview of Mobile Device Forensics**
 
 Mobile devices are an integral part of daily life, and as such, they often store critical personal and professional data. From communication records (SMS, emails, social media) to location history, photos, and app data, mobile devices hold a treasure trove of evidence in criminal investigations, civil litigation, and cybersecurity incidents. In the field of **digital forensics**, the analysis of mobile devices plays a crucial role in uncovering relevant information that could be pivotal in legal and security matters.
