@@ -6,6 +6,14 @@ Recovering deleted or lost graphic files on Linux can be accomplished using powe
 
 ---
 
+## Video Demonstrations:
+- [A File's Life - File Deletion and Recovery and PhotoRec Demo](https://www.youtube.com/watch?v=4zlk9ZSMa-4)
+- [Recover Permanent Deleted Files in a Disk with Foremost](https://www.youtube.com/watch?v=6EuIQ7Q1ONk)
+- [Recovering Deleted Files - Carving using FTK](https://www.youtube.com/watch?v=MbZkMJsT2TM)
+- [How to Recover Deleted Files using Autopsy - USB Drive Example](https://www.youtube.com/watch?v=-UZo1wP_4GY)
+
+---
+
 ## Prerequisites
 
 Ensure you have the following installed:
