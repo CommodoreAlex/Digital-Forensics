@@ -16,6 +16,7 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 8. [Mobile Device Forensics](#8-mobile-device-forensics)
 9. [Recovering Deleted & Graphic Files](#9-recovering-deleted--graphic-files)
 10. [Hack The Box Sherlock Lab: CrownJewl-1](#10-hack-the-box-sherlock-lab:-crownjewel-1)
+11. [Hack The Box Sherlock Challenge: CrownJewl-1](#10-Hack-The-Box-Sherlock-Lab:-CrownJewl-1)
 
 ---
 
