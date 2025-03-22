@@ -6,6 +6,7 @@
 - [What is VMware?](https://www.youtube.com/watch?v=zPNCp9AV-vA)
 - [VMware vCenter Server vs VMware ESXi: What's the Difference?](https://www.youtube.com/watch?v=xArL-GzFVOQ)
 - [VMware Memory Forensics ](https://www.youtube.com/watch?v=P0yw93GJsYU)
+- [i bought a new SERVER!! (VMware ESXi Setup and Install)](https://www.youtube.com/watch?v=apC1bOLbzbY)
 
 ### **Prerequisites**
 
