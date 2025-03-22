@@ -6,6 +6,11 @@ FTK Imager is a forensic imaging tool used to create copies of digital evidence 
 
 ---
 
+## Digital Forensics with FTK Imager (TryHackMe Advent of Cyber Day 8):
+- [John Hammond Demonstraton](https://www.youtube.com/watch?v=7wB0HNf1qh4)
+
+---
+
 ## Installing FTK Imager
 
 1. Download FTK Imager from the [Exterro website](https://accessdata.com/product-download/ftk-imager).
