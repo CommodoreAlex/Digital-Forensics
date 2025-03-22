@@ -5,6 +5,12 @@ NTFS (New Technology File System) is the default file system for modern Windows 
 
 ---
 
+## Video Demonstrations:
+- [FAT32 vs exFAT vs NTFS - Windows File Systems](https://www.youtube.com/watch?v=bYjQakUxeVY)
+- [NTFS Forensics and the Master File Table](https://www.youtube.com/watch?v=xW5UwDztkX4)
+
+---
+
 ## 2. **Key Components of NTFS Forensics**
 When analyzing an NTFS filesystem, forensic investigators focus on several key areas:
 
