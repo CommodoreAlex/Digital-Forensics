@@ -10,14 +10,8 @@ Mobile devices are an integral part of daily life, and as such, they often store
 
 ## **Reference to the Lecture:**
 
-For further theory and practical insights, you can watch the video lecture on mobile forensics:  
+For further theoretical insights, you can watch the video lecture on mobile forensics:  
 [**Mobile Device Forensics: Evidence Collection and Analysis**](https://www.youtube.com/watch?v=uCqeNnH1EpQ)
-
-This lecture covers the foundational concepts in mobile forensics, including:
-- The types of data found on mobile devices.
-- Techniques for data extraction from iOS and Android devices.
-- Challenges like encryption and data recovery.
-- Tools and methods for collecting and analyzing mobile evidence.
 
 ---
 
