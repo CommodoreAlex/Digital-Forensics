@@ -15,7 +15,7 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 7. [Cloud & Virtual Machine Forensics](#7-cloud--virtual-machine-forensics)
 8. [Mobile Device Forensics](#8-mobile-device-forensics)
 9. [Recovering Deleted & Graphic Files](#9-recovering-deleted--graphic-files)
-11. [Hack The Box Sherlock Challenge: CrownJewl-1](#10-Hack-The-Box-Sherlock-Lab:-CrownJewl-1)
+11. [Hack The Box Sherlock Challenge](#10-Hack-The-Box-Sherlock-Lab)
 
 ---
 
@@ -81,6 +81,6 @@ Each section includes tutorials, guides, and hands-on labs to ensure a comprehen
 
 ---
 
-## 10) **Hack The Box Sherlock Lab: CrownJewl-1**
+## 10) **Hack The Box Sherlock Lab**
 
-- Hack The Box Platform Hands-On Exericse: [CrownJewel-1 Lab](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
+- Hack The Box Platform Hands-On Exericse: [Hack The Box](https://www.cyberwiredtraining.net/digital-forensics/htb-sherlock-crownjewel-1)
